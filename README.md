@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ronnald 🖐️
 
-![Ronnald GitHub stats](https://github-readme-stats.vercel.app/api?username=CabideDev&show_icons=true&theme=dracula&count_private=true)
+![Ronnald GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnaldW&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
