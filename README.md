@@ -1,4 +1,4 @@
-<p align="center"> <samp><br> <strong>Olá, eu sou o Ronnald Willian!</strong><br>
+<p align="center"> <samp><br> <strong>Olá, eu sou o Ronnald!</strong><br>
   <br> 🎓 Estudante de <strong>Bacharelado em Sistemas de Informação</strong> no <strong>Instituto Federal do Espírito Santo (IFES)</strong> <br> 
   👨‍💻 Analista de Suporte especializado em sistemas de controle de ponto e acesso<br> 
   🛠️ Desenvolvedor com experiência em <strong>C, Python, HTML, CSS,</strong> e <strong>JavaScript</strong><br>
